@@ -32,7 +32,7 @@ p { line-height: 1.9; }
 
 .navbar-toggler i { transform: skewX(15deg); }
 
-.navbar-expand-lg {
+.navbar-expand-lg { 
     padding-left: 0;
     padding-right: 0;
 }
